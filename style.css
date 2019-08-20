@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.navbar {
+    color:white;
+    background-color: #00ADEE;
+}
+
+.span-black{
+    color: black;
+    font-weight: 500;
+}
+
+.carousel-index{
+    margin-top: 50px;
+}
+
+.about {
+    margin-top: 50px;
+    margin-bottom: 120px;
+    height: 200px;
+
+}
+
+.education{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 200px;
+}
+
+.right {
+    width: 500px;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    float: left;
+}
+
+h2 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gray-text {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+}
+
+.img-thumbnail {
+    width:550px;
+    height:250px;
+}
+
+.content {
+    margin-top: 56px;
+}
+
+.card{
+    background-color: #ffff;
+    box-shadow: 1px 2px 4px #000001;
+    border-radius: 5px;
+}
+
+p{
+    margin-left: 5px;
+}
+  
